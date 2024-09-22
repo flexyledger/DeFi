@@ -16,6 +16,10 @@ This project aims to create a decentralized financial ecosystem that empowers in
 *  **Programming Language**: Rust will be used as the primary programming language for developing the Solana program.
 *  **Solana SDK**: The Solana Web3.js SDK will be used to interact with the Solana blockchain and develop the dApp.
 *  **Smart Contracts**: Smart contracts will be developed using Rust to manage the logic of the decentralized application.
+  
+<!-- 
+Will do this tommorow
+-->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#-overview)
