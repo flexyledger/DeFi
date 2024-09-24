@@ -19,6 +19,7 @@ This project aims to create a decentralized financial ecosystem that empowers in
   
 <!-- 
 Will do this tommorow
+We need to understand the Protocol
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
