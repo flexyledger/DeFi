@@ -18,8 +18,10 @@ This project aims to create a decentralized financial ecosystem that empowers in
 *  **Smart Contracts**: Smart contracts will be developed using Rust to manage the logic of the decentralized application.
   
 <!-- 
-Will do this tommorow
-We need to understand the Protocol
+- Will do this tommorow
+- We need to understand the Protocol of Solana
+- Will explore some protocol on this
+
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
