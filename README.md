@@ -2,7 +2,7 @@
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)
 ### Team - [Artificial Ledger Technology](https://github.com/Artificial-Ledger-Technology)
-### Hackathon: Solana Radar         
+### Hackathon: [Solana Radar](https://www.colosseum.org/radar)         
 ### Prerequisite: [CCBLOCKCHAIN Blockchain](https://github.com/flexycode/CCBLOCKCHAIN)
 
 ### 💎 Project 
