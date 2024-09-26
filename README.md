@@ -21,7 +21,7 @@ This project aims to create a decentralized financial ecosystem that empowers in
 - Will do this tommorow
 - We need to understand the Protocol of Solana
 - Will explore some protocol on this
-
+- Will commit after I wake up
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
