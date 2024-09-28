@@ -23,6 +23,7 @@ This project aims to create a decentralized financial ecosystem that empowers in
 - Will explore some protocol on this
 - Will commit after I wake up
 - Need to finalize this area for this upcoming October
+- Read the documentation in Solana Radar
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
