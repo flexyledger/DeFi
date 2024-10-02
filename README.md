@@ -26,6 +26,7 @@ This project aims to create a decentralized financial ecosystem that empowers in
 - Read the documentation in Solana Radar
 - Develop a design for Decentralized Finance
 - Continue local development
+- Add CI/CD 
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
