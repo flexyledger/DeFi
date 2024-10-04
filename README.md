@@ -27,6 +27,7 @@ This project aims to create a decentralized financial ecosystem that empowers in
 - Develop a design for Decentralized Finance
 - Continue local development
 - Add CI/CD for the entire codebase
+- Add Changelogs 
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
