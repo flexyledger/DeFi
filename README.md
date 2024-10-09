@@ -31,6 +31,7 @@ This project aims to create a decentralized financial ecosystem that empowers in
 - Final run for this hackathon
 - Final submission
 - Need to postpone this due to lack of time
+- Let's revise this by next week
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
